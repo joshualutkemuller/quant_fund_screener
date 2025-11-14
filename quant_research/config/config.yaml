@@ -1,0 +1,6 @@
+weights:
+  volatility: -0.5
+  sharpe_ratio: 1.0
+  sortino_ratio: 0.8
+  max_drawdown: -0.7
+  momentum_63: 0.6

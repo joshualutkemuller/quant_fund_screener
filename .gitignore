@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+*.parquet
+quant_research/data/
+quant_research/reports/
